@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SelfApp</string>
+    <string name="accessibility_service_description">Accessibility Service used to detect when locked applications are opened and lock access to them.</string>
+</resources>
